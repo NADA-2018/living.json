@@ -1,0 +1,180 @@
+{
+    "products": [
+      {
+        "id": "living1",
+        "name": "Living Luxe",
+        "description": " a beautifully designed living room that combines elegance and comfort.",
+        "category": "Living Room",
+        "dimensions": {
+        "width": "166 cm",
+        "length": "254 cm",
+        "height": "94 cm"
+        },
+        "price": 3000,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/living1.jpg"
+           
+        }
+        
+      },
+      {
+        "id": "living2",
+        "name": "Cozy Corner",
+        "description": "a beautifully designed living room that combines elegance and comfort",
+        "category": "Living Room",
+        "dimensions": {
+        "width": "166 cm",
+        "length": "254 cm",
+        "height": "94 cm"
+        },
+        "price": 2000,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/living2.jpg"
+           
+        }
+        
+      },
+      {
+        "id": "living3",
+        "name": "Urban Haven",
+        "description": "a beautifully designed living room that combines elegance and comfort",
+        "category": "Living Room",
+        "dimensions": {
+            "width": "166 cm",
+            "length": "254 cm",
+            "height": "94 cm"
+            },
+        "price": 1500,
+        
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/living3.jpg"
+            
+
+        }
+        
+      },
+      {
+        "id": "living4",
+        "name": "Serenity",
+        "description": "a beautifully designed living room that combines elegance and comfort",
+        "category":"Living Room",
+        "dimensions": {
+            "width": "166 cm",
+            "length": "254 cm",
+            "height": "94 cm"
+            },
+        "price": 2500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/living4.jpg",
+            "additional":[
+                "https://d.img.vision/nadakhaled/living41.jpg"
+    
+            ]
+
+        }
+        
+      },
+    {
+        "id": "living5",
+        "name": "Design Den",
+        "description": "a beautifully designed living room that combines elegance and comfort",
+        "category": "Living Room",
+        "dimensions": {
+            "width": "166 cm",
+            "length": "254 cm",
+            "height": "94 cm"
+            },
+        "price": 3500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/living5.jpg"
+            
+        }
+        
+      },
+      {
+        "id": "living6",
+        "name": "Gather & Relax",
+        "description": "a beautifully designed living room that combines elegance and comfort",
+        "category": "Living Room",
+        "dimensions": {
+            "width": "166 cm",
+            "length": "254 cm",
+            "height": "94 cm"
+            },
+        "price": 4500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/living6.jpg"
+            
+
+        }
+        
+      },{
+        "id": "living7",
+        "name": "Home Harmony",
+        "description": "a beautifully designed living room that combines elegance and comfort",
+        "category": "Living Room",
+        "dimensions": {
+            "width": "166 cm",
+            "length": "254 cm",
+            "height": "94 cm"
+            },
+        "price": 5500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/living7.jpg"
+
+        }
+        
+      },{
+        "id": "living8",
+        "name": "Lively Living",
+        "description": "a beautifully designed living room that combines elegance and comfort",
+        "category": "Living Room",
+        "dimensions": {
+            "width": "166 cm",
+            "length": "254 cm",
+            "height": "94 cm"
+            },
+        "price": 6000,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/living8.jpg"
+            
+        }
+        
+      },{
+        "id": "living9",
+        "name": "Tranquil Retreat",
+        "description": "a beautifully designed living room that combines elegance and comfort",
+        "category": "Living Room",
+        "dimensions": {
+            "width": "166 cm",
+            "length": "254 cm",
+            "height": "94 cm"
+            },
+        "price": 7500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/nadakhaled_living9.jpg"
+            
+
+        }
+        
+      },{
+        "id": "living10",
+        "name": "Serene Sitting",
+        "description": "a beautifully designed living room that combines elegance and comfort",
+        "category": "Living Room",
+        "dimensions": {
+            "width": "166 cm",
+            "length": "254 cm",
+            "height": "94 cm"
+            },
+        "price": 3000,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/living10.jpg",
+            "additional":[
+                "https://d.img.vision/nadakhaled/living10_1.jpg",
+                "https://d.img.vision/nadakhaled/living_10_2.jpg"
+            ]
+        }
+        
+      }
+  ]}
